@@ -19,4 +19,4 @@ djoser = "*"
 pylint = "<2.0.0"
 
 [requires]
-python_version = "3.6"
+python_version = "3.6.6"
