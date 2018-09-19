@@ -1,0 +1,8 @@
+# Backend ignore
+.env
+backend/db.sqlite3
+backend/jobs/migrations
+backend/.vscode
+
+# Frontend ignore
+frontend/.env
